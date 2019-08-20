@@ -1,0 +1,13 @@
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\PolynomialLibTests.dll
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\PolynomialLibTests.pdb
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\nunit.framework.dll
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\PolynomialLib.dll
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\PolynomialLib.pdb
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\nunit.framework.pdb
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\nunit.framework.xml
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\obj\Debug\PolynomialLibTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\obj\Debug\PolynomialLibTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\obj\Debug\PolynomialLibTests.dll
+D:\Курсы епам\PolynomialLib\PolynomialLibTests\obj\Debug\PolynomialLibTests.pdb

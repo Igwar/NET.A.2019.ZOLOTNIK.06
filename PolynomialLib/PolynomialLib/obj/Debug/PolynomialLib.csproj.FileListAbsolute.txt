@@ -1,0 +1,5 @@
+D:\Курсы епам\PolynomialLib\PolynomialLib\bin\Debug\PolynomialLib.dll
+D:\Курсы епам\PolynomialLib\PolynomialLib\bin\Debug\PolynomialLib.pdb
+D:\Курсы епам\PolynomialLib\PolynomialLib\obj\Debug\PolynomialLib.csproj.CoreCompileInputs.cache
+D:\Курсы епам\PolynomialLib\PolynomialLib\obj\Debug\PolynomialLib.dll
+D:\Курсы епам\PolynomialLib\PolynomialLib\obj\Debug\PolynomialLib.pdb
