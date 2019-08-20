@@ -1,0 +1,10 @@
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\bin\Debug\JaggedArrayLibTests.dll
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\bin\Debug\JaggedArrayLibTests.pdb
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\bin\Debug\JaggedArrayLib.dll
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\bin\Debug\JaggedArrayLib.pdb
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\obj\Debug\JaggedArrayLibTests.csprojResolveAssemblyReference.cache
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\obj\Debug\JaggedArrayLibTests.csproj.CoreCompileInputs.cache
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\obj\Debug\JaggedArrayLibTests.dll
+D:\Курсы епам\JaggedArrayLib\JaggedArrayLibTests\obj\Debug\JaggedArrayLibTests.pdb
